@@ -1,0 +1,7 @@
+Thanks everyone for following along!
+Feel free to download the source code from https://github.com/usingBytes
+I'll also have links in the description of the video
+
+Try making some changes to the code. If you need some ideas you could try making the snake look more like a snake, or you could add some sounds to the game.
+Another idea is you could add a timer that counts down every time fruit spawns, if you don't eat the fruit before the timer runs out you could have the game area close in on the player.
+Thanks again for watching!
